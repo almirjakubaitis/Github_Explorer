@@ -4,6 +4,10 @@
 
 Nessa etapa daremos início ao aprendizado do ReactJS, criando o primeiro projeto já utilizando TypeScript. Nesse ponto o dev já deve conhecer os conceitos de componente, estado e propriedades mas eles serão lembrados durante as aulas.
 
+<p align="center">
+  <img alt="Sign In" src=".github/gihubexplorer.png" width="100%">
+</p>
+
 # 2. Criando a aplicação
 
 ## 2.1 Criando as Rotas
@@ -710,7 +714,7 @@ Nessa etapa daremos início ao aprendizado do ReactJS, criando o primeiro projet
    ```
 
 
-   
+
 
 ## 2.9 Listando issues da API
 
